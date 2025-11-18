@@ -66,7 +66,7 @@
     "insomnia-importers": "3.6.0",
     "io-ts": "2.2.21",
     "js-md5": "0.8.3",
-    "js-yaml": "4.1.0",
+    "js-yaml": "4.1.1",
     "jsonc-parser": "3.3.1",
     "jsonpath-plus": "10.0.0",
     "lodash-es": "4.17.21",
