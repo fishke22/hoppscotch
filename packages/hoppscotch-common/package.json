@@ -162,7 +162,7 @@
     "unplugin-fonts": "1.1.1",
     "unplugin-icons": "0.19.3",
     "unplugin-vue-components": "0.27.4",
-    "vite": "5.4.9",
+    "vite": "5.4.20",
     "vite-plugin-checker": "0.6.4",
     "vite-plugin-fonts": "0.7.0",
     "vite-plugin-html-config": "2.0.2",
